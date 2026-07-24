@@ -1,0 +1,40 @@
+NEURO-REHAB-X/
+│
+├── wordpress-theme/
+│   └── neurorehab-x/
+│       ├── style.css
+│       ├── functions.php
+│       ├── index.php
+│       ├── header.php
+│       ├── footer.php
+│       ├── front-page.php
+│       ├── page.php
+│       ├── single.php
+│       ├── archive.php
+│       ├── search.php
+│       ├── 404.php
+│       ├── theme.json
+│       ├── screenshot.png
+│       ├── assets/
+│       ├── inc/
+│       ├── template-parts/
+│       └── languages/
+│
+├── docs/
+│
+├── design/
+│
+├── branding/
+│
+├── research/
+│
+├── hardware/
+│
+├── firmware/
+│
+├── ai/
+│
+├── README.md
+├── CHANGELOG.md
+├── LICENSE
+└── .gitignore
